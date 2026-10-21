@@ -9,7 +9,7 @@ redirect_from:
 
 I'm **Fadel Hermann SEBGO**, a PhD candidate at the Geology & Sustainable Mining Institute (GSMI) of [Mohammed VI Polytechnic University (UM6P)](https://www.um6p.ma/) in Ben Guerir, Morocco.
 
-My research focuses on the **integration of stochastic simulation and machine learning for mineral resource estimation**, combining geostatistical simulation, which represents the uncertainty in what lies between drillholes, with data-driven machine-learning models.
+My research focuses on the **integration of stochastic simulation and machine learning for mineral resource estimation**, combining geostatistical simulation with data-driven machine-learning models.
 
 Research interests
 ------
