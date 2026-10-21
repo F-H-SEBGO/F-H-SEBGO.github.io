@@ -13,10 +13,11 @@ Education
 ======
 * **Ph.D. candidate**, Geology & Sustainable Mining Institute (GSMI), Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco — 2024 to present
   * Thesis topic: stochastic simulation and machine learning for mineral resource estimation
-<!-- Add your previous degrees here, newest first, e.g.
+{% comment %}
+Add your previous degrees above this note, newest first, e.g.
 * **M.Sc. in ...**, University, City, Country — year
 * **B.Sc. in ...**, University, City, Country — year
--->
+{% endcomment %}
 
 Research skills
 ======
