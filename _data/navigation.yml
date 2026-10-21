@@ -1,0 +1,12 @@
+# Order of the links in the site's top menu.
+# The site title (your name) already links to the About page.
+
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "CV"
+    url: /cv/
