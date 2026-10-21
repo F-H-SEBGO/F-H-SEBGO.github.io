@@ -26,4 +26,4 @@ One or two sentences on the question, the data and the method.
 
 Software
 ------
-I work mainly in **Python** and **R**, use **Isatis.neo** for geostatistical modelling, and write in **LaTeX**. Code from my projects is on [GitHub](https://github.com/F-H-SEBGO).
+I work mainly in **Python** and **R**, use **Isatis.neo** for geostatistical modelling. Code from my projects is on [GitHub](https://github.com/F-H-SEBGO).
